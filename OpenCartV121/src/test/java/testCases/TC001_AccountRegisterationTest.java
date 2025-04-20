@@ -19,12 +19,20 @@ public class TC001_AccountRegisterationTest extends BaseClass {
 	
 	@Test
 	public void verify_account_registeration() {
+		try{
+		logger.info("**********Starting the test case****************");
 		
 		HomePage hp = new HomePage(driver);
 		hp.clickMyAccount();
+		logger.info("Clicked on MyAccount link");
+		
+		
 		hp.clickRegister();
+		logger.info("Clicked on register Link");
 		
 		AccountRegistrationPage regpage = new AccountRegistrationPage(driver);
+		
+		logger.info("Providing customer details");
 		regpage.setFirstName(randomString().toUpperCase());
 		regpage.setLastName(randomString().toUpperCase());
 		regpage.settxtPhoneNumber(randomNumber());
@@ -36,8 +44,16 @@ public class TC001_AccountRegisterationTest extends BaseClass {
 		
 		regpage.setCheckPolicy();
 		regpage.clickContinue();
+		
+		logger.info("Validating the message");
 		String confirmationMessage = regpage.getconfirmMessage();
 		Assert.assertEquals(confirmationMessage, "Your Account Has Been Created!");
+		}
+		catch(Exception e) {
+			logger.error("Test Failed");
+			logger.debug("Debug logs");
+			Assert.fail();
+		}
 	}
 	
 	
