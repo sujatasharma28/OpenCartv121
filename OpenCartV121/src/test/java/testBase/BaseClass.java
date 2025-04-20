@@ -28,7 +28,7 @@ public class BaseClass {
 		
 		//Loading config.properties....
 		
-		FileReader file = new FileReader(".//src//test.resources//config.properties");
+		FileReader file = new FileReader(".//src//test//resources//config.properties");
 		p = new Properties();
 		p.load(file);
 		

@@ -147,3 +147,17 @@
 [INFO ] 2025-04-20 19:27:37.456 [TestNG-tests-3] TC001_AccountRegisterationTest - Providing customer details
 [INFO ] 2025-04-20 19:27:38.505 [TestNG-tests-3] TC001_AccountRegisterationTest - Validating the message
 [INFO ] 2025-04-20 19:27:38.526 [TestNG-tests-3] TC001_AccountRegisterationTest - *****************Finished the test case****************
+[DEBUG] 2025-04-20 20:38:38.504 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
+[INFO ] 2025-04-20 20:38:38.729 [main] Utils - [TestNG] Running:
+  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
+
+[DEBUG] 2025-04-20 20:41:08.865 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
+[INFO ] 2025-04-20 20:41:09.059 [main] Utils - [TestNG] Running:
+  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
+
+[DEBUG] 2025-04-20 20:42:16.753 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
+[INFO ] 2025-04-20 20:42:16.943 [main] Utils - [TestNG] Running:
+  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
+
+[INFO ] 2025-04-20 20:42:43.062 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
+[INFO ] 2025-04-20 20:42:44.584 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
