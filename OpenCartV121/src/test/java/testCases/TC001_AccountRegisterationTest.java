@@ -54,6 +54,7 @@ public class TC001_AccountRegisterationTest extends BaseClass {
 			logger.debug("Debug logs");
 			Assert.fail();
 		}
+		logger.info("*****************Finished the test case****************");
 	}
 	
 	

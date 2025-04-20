@@ -1,0 +1,47 @@
+[DEBUG] 2025-04-20 18:08:19.564 [main] TestNG - suiteXmlPath: "C:\Users\sujat\AppData\Local\Temp\testng-eclipse--1513851853\testng-customsuite.xml"
+[INFO ] 2025-04-20 18:08:19.740 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.742 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2025-04-20 18:08:19.743 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.743 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.744 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.751 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.751 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.751 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.756 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2025-04-20 18:08:19.763 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2025-04-20 18:08:19.764 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.765 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.765 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.765 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.766 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.766 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.768 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.768 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.769 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.769 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.771 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.772 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.772 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.772 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.773 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2025-04-20 18:08:19.773 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2025-04-20 18:08:19.781 [main] Utils - [TestNG] Running:
+  C:\Users\sujat\AppData\Local\Temp\testng-eclipse--1513851853\testng-customsuite.xml
+
+[INFO ] 2025-04-20 18:08:19.795 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[INFO ] 2025-04-20 18:08:22.421 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
+[INFO ] 2025-04-20 18:08:22.512 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
+[INFO ] 2025-04-20 18:08:23.099 [main] TC001_AccountRegisterationTest - Clicked on register Link
+[INFO ] 2025-04-20 18:08:23.101 [main] TC001_AccountRegisterationTest - Providing customer details
+[INFO ] 2025-04-20 18:08:24.498 [main] TC001_AccountRegisterationTest - Validating the message
+[INFO ] 2025-04-20 18:08:24.535 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
+[INFO ] 2025-04-20 18:08:24.821 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2264e43c: 58 ms
+[INFO ] 2025-04-20 18:08:24.822 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@60acd609: 1 ms
+[INFO ] 2025-04-20 18:08:24.828 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@55ec556: 5 ms
+[INFO ] 2025-04-20 18:08:24.832 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@138caeca: 4 ms
+[INFO ] 2025-04-20 18:08:24.836 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1de6932a: 4 ms
+[INFO ] 2025-04-20 18:08:24.836 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14dc3f89: 0 ms
