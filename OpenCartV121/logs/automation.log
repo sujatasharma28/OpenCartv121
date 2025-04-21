@@ -1,163 +1,53 @@
-[DEBUG] 2025-04-20 18:08:19.564 [main] TestNG - suiteXmlPath: "C:\Users\sujat\AppData\Local\Temp\testng-eclipse--1513851853\testng-customsuite.xml"
-[INFO ] 2025-04-20 18:08:19.740 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.742 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-[INFO ] 2025-04-20 18:08:19.743 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.743 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.744 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.751 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.751 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.751 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.756 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
-[INFO ] 2025-04-20 18:08:19.763 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
-[INFO ] 2025-04-20 18:08:19.764 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.765 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.765 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.765 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.766 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.766 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.768 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.768 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.769 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.769 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.771 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.772 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.772 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.772 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.773 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-[INFO ] 2025-04-20 18:08:19.773 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.775 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-[INFO ] 2025-04-20 18:08:19.781 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\AppData\Local\Temp\testng-eclipse--1513851853\testng-customsuite.xml
-
-[INFO ] 2025-04-20 18:08:19.795 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
-[INFO ] 2025-04-20 18:08:22.421 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 18:08:22.512 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 18:08:23.099 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 18:08:23.101 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 18:08:24.498 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 18:08:24.535 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 18:08:24.821 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2264e43c: 58 ms
-[INFO ] 2025-04-20 18:08:24.822 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@60acd609: 1 ms
-[INFO ] 2025-04-20 18:08:24.828 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@55ec556: 5 ms
-[INFO ] 2025-04-20 18:08:24.832 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@138caeca: 4 ms
-[INFO ] 2025-04-20 18:08:24.836 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1de6932a: 4 ms
-[INFO ] 2025-04-20 18:08:24.836 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14dc3f89: 0 ms
-[DEBUG] 2025-04-20 19:19:06.425 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 19:19:06.670 [main] Utils - [TestNG] Running:
+[DEBUG] 2025-04-21 07:20:13.663 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
+[INFO ] 2025-04-21 07:20:13.871 [main] Utils - [TestNG] Running:
   C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
 
-[INFO ] 2025-04-20 19:19:12.093 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:19:12.216 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:19:12.656 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:19:12.679 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:19:13.925 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:19:13.962 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[DEBUG] 2025-04-20 19:19:34.896 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 19:19:35.100 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
+[DEBUG] 2025-04-21 07:20:18.713 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:18.716 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:18.717 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.167 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.167 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.168 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.192 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.193 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.194 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.225 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.225 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.226 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.245 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.247 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.248 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.264 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.265 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.265 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.280 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.281 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.281 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.298 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.299 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.299 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.315 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.317 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.317 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.332 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.332 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.333 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2025-04-21 07:20:19.349 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2025-04-21 07:20:19.349 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2025-04-21 07:20:19.350 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2025-04-21 07:20:19.376 [TestNG-tests-1] TC003_LoginDDT - ********Starting TestCase003*********
+[INFO ] 2025-04-21 07:20:20.897 [TestNG-tests-1] TC003_LoginDDT - ********Finished TestCase003*********
+[INFO ] 2025-04-21 07:20:20.903 [TestNG-tests-1] TC003_LoginDDT - ********Starting TestCase003*********
+[INFO ] 2025-04-21 07:20:41.406 [TestNG-tests-1] TC003_LoginDDT - ********Starting TestCase003*********
+[DEBUG] 2025-04-21 07:43:55.746 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml"
+[INFO ] 2025-04-21 07:43:55.993 [main] Utils - [TestNG] Running:
+  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml
 
-[INFO ] 2025-04-20 19:19:43.231 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:19:43.332 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:19:43.861 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:19:43.864 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:19:45.086 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:19:45.126 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[DEBUG] 2025-04-20 19:23:42.528 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 19:23:42.753 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[INFO ] 2025-04-20 19:23:45.147 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:23:45.224 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:23:45.684 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:23:45.687 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:23:46.906 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:23:46.941 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 19:23:49.263 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:23:49.537 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:23:50.004 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:23:50.004 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:23:50.458 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:23:51.403 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 19:23:53.516 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:23:53.578 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:23:54.022 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:23:54.022 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:23:55.434 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:23:55.466 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[DEBUG] 2025-04-20 19:24:36.708 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 19:24:36.922 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[INFO ] 2025-04-20 19:24:39.200 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:24:39.271 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:24:39.650 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:24:39.652 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:24:40.122 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:24:41.019 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 19:24:43.306 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:24:43.379 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:24:43.752 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:24:43.752 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:24:44.790 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:24:44.820 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[DEBUG] 2025-04-20 19:26:18.549 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 19:26:18.754 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[INFO ] 2025-04-20 19:26:21.194 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:26:21.280 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:26:21.714 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:26:21.716 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:26:23.017 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:26:23.056 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 19:26:25.341 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:26:25.438 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:26:25.830 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:26:25.830 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:26:26.968 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:26:27.004 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 19:26:37.011 [main] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:26:37.272 [main] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:26:37.741 [main] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:26:37.742 [main] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:26:38.744 [main] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:26:38.764 [main] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[DEBUG] 2025-04-20 19:27:31.162 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 19:27:31.384 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[INFO ] 2025-04-20 19:27:34.760 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:27:34.826 [TestNG-tests-2] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:27:34.948 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:27:34.948 [TestNG-tests-2] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:27:35.408 [TestNG-tests-2] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:27:35.410 [TestNG-tests-2] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:27:35.610 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:27:35.611 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:27:36.749 [TestNG-tests-3] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-20 19:27:36.877 [TestNG-tests-2] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:27:36.913 [TestNG-tests-2] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 19:27:37.006 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:27:37.024 [TestNG-tests-3] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-20 19:27:37.059 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-20 19:27:37.456 [TestNG-tests-3] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-20 19:27:37.456 [TestNG-tests-3] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-20 19:27:38.505 [TestNG-tests-3] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-20 19:27:38.526 [TestNG-tests-3] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[DEBUG] 2025-04-20 20:38:38.504 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 20:38:38.729 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[DEBUG] 2025-04-20 20:41:08.865 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 20:41:09.059 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[DEBUG] 2025-04-20 20:42:16.753 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-20 20:42:16.943 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[INFO ] 2025-04-20 20:42:43.062 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
-[INFO ] 2025-04-20 20:42:44.584 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
+[INFO ] 2025-04-21 07:43:59.035 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
+[INFO ] 2025-04-21 07:43:59.257 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
+[INFO ] 2025-04-21 07:43:59.841 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
+[INFO ] 2025-04-21 07:43:59.843 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
+[INFO ] 2025-04-21 07:44:01.235 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
+[INFO ] 2025-04-21 07:44:01.280 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
+[INFO ] 2025-04-21 07:44:03.467 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
+[INFO ] 2025-04-21 07:44:04.947 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
