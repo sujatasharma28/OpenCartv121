@@ -1,53 +1,13 @@
-[DEBUG] 2025-04-21 07:20:13.663 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
-[INFO ] 2025-04-21 07:20:13.871 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml
-
-[DEBUG] 2025-04-21 07:20:18.713 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:18.716 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:18.717 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.167 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.167 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.168 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.192 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.193 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.194 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.225 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.225 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.226 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.245 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.247 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.248 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.264 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.265 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.265 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.280 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.281 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.281 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.298 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.299 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.299 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.315 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.317 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.317 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.332 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.332 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.333 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2025-04-21 07:20:19.349 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2025-04-21 07:20:19.349 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-[DEBUG] 2025-04-21 07:20:19.350 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[INFO ] 2025-04-21 07:20:19.376 [TestNG-tests-1] TC003_LoginDDT - ********Starting TestCase003*********
-[INFO ] 2025-04-21 07:20:20.897 [TestNG-tests-1] TC003_LoginDDT - ********Finished TestCase003*********
-[INFO ] 2025-04-21 07:20:20.903 [TestNG-tests-1] TC003_LoginDDT - ********Starting TestCase003*********
-[INFO ] 2025-04-21 07:20:41.406 [TestNG-tests-1] TC003_LoginDDT - ********Starting TestCase003*********
-[DEBUG] 2025-04-21 07:43:55.746 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml"
-[INFO ] 2025-04-21 07:43:55.993 [main] Utils - [TestNG] Running:
+[DEBUG] 2025-04-23 06:17:42.707 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml"
+[DEBUG] 2025-04-23 06:31:05.230 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml"
+[INFO ] 2025-04-23 06:31:05.447 [main] Utils - [TestNG] Running:
   C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml
 
-[INFO ] 2025-04-21 07:43:59.035 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-21 07:43:59.257 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-21 07:43:59.841 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-21 07:43:59.843 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-21 07:44:01.235 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-21 07:44:01.280 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-21 07:44:03.467 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
-[INFO ] 2025-04-21 07:44:04.947 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
+[INFO ] 2025-04-23 06:31:13.037 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
+[INFO ] 2025-04-23 06:31:13.129 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
+[INFO ] 2025-04-23 06:31:13.631 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
+[INFO ] 2025-04-23 06:31:13.633 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
+[INFO ] 2025-04-23 06:31:14.101 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
+[INFO ] 2025-04-23 06:31:14.835 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
+[INFO ] 2025-04-23 06:31:16.845 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
+[INFO ] 2025-04-23 06:31:18.510 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
