@@ -1,0 +1,13 @@
+[DEBUG] 2025-04-23 06:17:42.707 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml"
+[DEBUG] 2025-04-23 06:31:05.230 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml"
+[INFO ] 2025-04-23 06:31:05.447 [main] Utils - [TestNG] Running:
+  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grouping.xml
+
+[INFO ] 2025-04-23 06:31:13.037 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
+[INFO ] 2025-04-23 06:31:13.129 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
+[INFO ] 2025-04-23 06:31:13.631 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
+[INFO ] 2025-04-23 06:31:13.633 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
+[INFO ] 2025-04-23 06:31:14.101 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
+[INFO ] 2025-04-23 06:31:14.835 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
+[INFO ] 2025-04-23 06:31:16.845 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
+[INFO ] 2025-04-23 06:31:18.510 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
