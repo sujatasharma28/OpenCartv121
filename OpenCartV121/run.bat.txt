@@ -1,0 +1,2 @@
+cd C:\Users\sujat\git\OpenCartV121\OpenCartV121
+mvn test

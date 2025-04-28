@@ -1,65 +1,18 @@
-[DEBUG] 2025-04-27 15:34:45.123 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml"
-[INFO ] 2025-04-27 15:34:45.418 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml
-
-[INFO ] 2025-04-27 15:34:50.515 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-27 15:34:50.659 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-27 15:34:51.152 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-27 15:34:51.168 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-27 15:34:52.581 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-27 15:34:52.624 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-27 15:34:55.332 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
-[INFO ] 2025-04-27 15:34:57.103 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
-[DEBUG] 2025-04-27 15:35:17.566 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml"
-[INFO ] 2025-04-27 15:35:17.804 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml
-
-[INFO ] 2025-04-27 15:35:21.425 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-27 15:35:21.616 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-27 15:35:22.311 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-27 15:35:22.315 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-27 15:35:23.876 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-27 15:35:23.939 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-27 15:35:25.749 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
-[INFO ] 2025-04-27 15:35:27.633 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
-[DEBUG] 2025-04-27 15:37:55.405 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml"
-[INFO ] 2025-04-27 15:37:55.649 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml
-
-[INFO ] 2025-04-27 15:38:02.339 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-27 15:38:02.631 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-27 15:38:03.506 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-27 15:38:03.508 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
-[INFO ] 2025-04-27 15:38:04.881 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
-[INFO ] 2025-04-27 15:38:04.926 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
-[INFO ] 2025-04-27 15:38:10.280 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
-[INFO ] 2025-04-27 15:38:12.140 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
-[DEBUG] 2025-04-27 15:39:27.610 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml"
-[DEBUG] 2025-04-27 15:39:50.072 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml"
-[INFO ] 2025-04-27 15:39:50.329 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml
-
-[INFO ] 2025-04-27 15:39:52.807 [TestNG-tests-2] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-27 15:39:52.950 [TestNG-tests-2] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-27 15:39:53.485 [TestNG-tests-2] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-27 15:39:53.487 [TestNG-tests-2] TC001_AccountRegisterationTest - Providing customer details
-[ERROR] 2025-04-27 15:40:05.701 [TestNG-tests-2] TC001_AccountRegisterationTest - Test Failed
-[DEBUG] 2025-04-27 15:40:05.701 [TestNG-tests-2] TC001_AccountRegisterationTest - Debug logs
-[INFO ] 2025-04-27 15:40:05.964 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-27 15:40:06.378 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[ERROR] 2025-04-27 15:40:07.172 [TestNG-tests-1] TC001_AccountRegisterationTest - Test Failed
-[DEBUG] 2025-04-27 15:40:07.172 [TestNG-tests-1] TC001_AccountRegisterationTest - Debug logs
-[DEBUG] 2025-04-27 15:52:16.967 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml"
-[INFO ] 2025-04-27 15:52:17.233 [main] Utils - [TestNG] Running:
-  C:\Users\sujat\git\OpenCartV121\OpenCartV121\Grid-Docker.xml
-
-[INFO ] 2025-04-27 15:52:21.108 [TestNG-tests-2] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-27 15:52:21.304 [TestNG-tests-2] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[INFO ] 2025-04-27 15:52:22.064 [TestNG-tests-2] TC001_AccountRegisterationTest - Clicked on register Link
-[INFO ] 2025-04-27 15:52:22.067 [TestNG-tests-2] TC001_AccountRegisterationTest - Providing customer details
-[ERROR] 2025-04-27 15:52:33.684 [TestNG-tests-2] TC001_AccountRegisterationTest - Test Failed
-[DEBUG] 2025-04-27 15:52:33.684 [TestNG-tests-2] TC001_AccountRegisterationTest - Debug logs
-[INFO ] 2025-04-27 15:52:33.970 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
-[INFO ] 2025-04-27 15:52:34.413 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
-[ERROR] 2025-04-27 15:52:35.219 [TestNG-tests-1] TC001_AccountRegisterationTest - Test Failed
-[DEBUG] 2025-04-27 15:52:35.219 [TestNG-tests-1] TC001_AccountRegisterationTest - Debug logs
+[DEBUG] 2025-04-28 06:57:19.528 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
+[INFO ] 2025-04-28 06:57:26.862 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
+[INFO ] 2025-04-28 06:57:27.030 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
+[INFO ] 2025-04-28 06:57:27.571 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
+[INFO ] 2025-04-28 06:57:27.574 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
+[INFO ] 2025-04-28 06:57:29.122 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
+[INFO ] 2025-04-28 06:57:29.167 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
+[INFO ] 2025-04-28 06:57:39.617 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
+[INFO ] 2025-04-28 06:57:41.078 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
+[DEBUG] 2025-04-28 07:05:18.572 [main] TestNG - suiteXmlPath: "C:\Users\sujat\git\OpenCartV121\OpenCartV121\Master.xml"
+[INFO ] 2025-04-28 07:05:22.079 [TestNG-tests-1] TC001_AccountRegisterationTest - **********Starting the test case****************
+[INFO ] 2025-04-28 07:05:22.189 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on MyAccount link
+[INFO ] 2025-04-28 07:05:22.638 [TestNG-tests-1] TC001_AccountRegisterationTest - Clicked on register Link
+[INFO ] 2025-04-28 07:05:22.646 [TestNG-tests-1] TC001_AccountRegisterationTest - Providing customer details
+[INFO ] 2025-04-28 07:05:24.600 [TestNG-tests-1] TC001_AccountRegisterationTest - Validating the message
+[INFO ] 2025-04-28 07:05:24.649 [TestNG-tests-1] TC001_AccountRegisterationTest - *****************Finished the test case****************
+[INFO ] 2025-04-28 07:05:27.289 [TestNG-tests-1] TC002_LoginTest - ********Starting TestCase002*********
+[INFO ] 2025-04-28 07:05:28.689 [TestNG-tests-1] TC002_LoginTest - ********Finished TestCase002*********
